@@ -98,7 +98,7 @@ Our tracking raw results are there([Baidu Drive](https://pan.baidu.com/s/11eH2V3
 *Note:* The speeds reported in our paper were tested on a single RTX3060 GPU.
 
 ```
-python tracking/profile_model.py --script DSATrack --config cae_center_all_ep300
+python tracking/profile_model.py --script ESTrack --config cae_center_all_ep300
 ```
 
 ## Acknowledgement
