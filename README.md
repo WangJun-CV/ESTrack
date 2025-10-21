@@ -3,14 +3,14 @@
 
 This repository provides the official implementation of our paper:
 
-> **"[ESTrack: Enhanced Visual Tracking via Spatial-Channel Summation Attention Network]"**  
+> **"[Enhanced Visual Tracking via Spatial-Channel Summation Attention Network]"**  
 > *Authors: Yuanyun Wang, Shenmiao Jin, Zhuo An, Jun Wang*  
 > *Submitted to: The Visual Computer*  
 > *Status: Under Review*
 
 If you use this codebase or find our work helpful in your research, please kindly cite our manuscript:
 ```
-Wang, Y., Jin, S., An, Z., & Wang, J. "ESTrack: Enhanced Visual Tracking via Spatial-Channel Summation Attention Network." The Visual Computer (under review).
+Y. Wang, S. Jin, Z. An, J. Wang, Enhanced Visual Tracking via Spatial-Channel Summation Attention Network, The Visual Computer (under review), 2025.
 ```
 
 ## Prepare Environment
